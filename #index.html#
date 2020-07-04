@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+	<title>Milton Ruiz Webpage</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="Nissa Photography studio html template">
+	<meta name="keywords" content="industry, html">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<!-- Favicon -->
+	<link href="img/favicon.ico" rel="shortcut icon"/>
+
+	<!-- Google font -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,900&display=swap" rel="stylesheet">
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="css/magnific-popup.css"/>
+	<link rel="stylesheet" href="css/owl.carousel.min.css"/>
+	<link rel="stylesheet" href="css/academicons.min.css"/>
+
+	<!-- Main Stylesheets -->
+	<link rel="stylesheet" href="css/style.css"/>
+
+
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+	<!-- Page Preloder -->
+	<div id="preloder">
+		<div class="loader"></div>
+	</div>
+
+	<!-- Main section start -->
+	<div class="main-site-warp">
+		<div class="site-menu-warp">
+			<div class="close-menu">x</div>
+			<!-- Main menu -->
+			<ul class="site-menu">
+				<li><a href="index.html" class="active">Home</a></li>
+				<li><a href="about.html">About </a></li>
+				<!--<li><a href="blog.html">Blog</a></li>-->
+				<li><a href="portfolio.html">My projects</a></li>
+				<li><a href="contact.html">Contact</a></li>
+				<li><a href="elements.html">Elements</a></li>
+			</ul>
+			<div class="menu-social">
+			        <a href="https://ui.adsabs.harvard.edu/public-libraries/MT5SUPaQQdWI5uOOUuXJmg"><i class="ai ai-ads"></i></a>
+         			<a href="https://scholar.google.de/citations?user=gH197zsAAAAJ&hl=en"><i class="ai ai-google-scholar"></i></a>
+				<a href="https://arxiv.org/a/ruiz_m_1.html"><i class="ai ai-arxiv"></i></a>
+				<a href="https://inspirehep.net/authors/1074637?ui-citation-summary=true#with-citation-summary"><i class="ai ai-inspire"></i></a>
+				<!--<a href=""><i class="fa fa-twitter"></i></a>
+				<a href=""><i class="fa fa-dribbble"></i></a>
+				<a href=""><i class="fa fa-behance"></i></a>-->
+			</div>
+		</div>
+		<header class="header-section">
+			<div class="nav-switch">
+				<i class="fa fa-bars"></i>
+			</div>
+			<div class="header-social">
+           		        <a href="https://ui.adsabs.harvard.edu/public-libraries/MT5SUPaQQdWI5uOOUuXJmg"><i class="ai ai-ads"></i></a>
+			        <a href="https://scholar.google.de/citations?user=gH197zsAAAAJ&hl=en"><i class="ai ai-google-scholar"></i></a>
+				<a href="https://arxiv.org/a/ruiz_m_1.html"><i class="ai ai-arxiv"></i></a>
+				<a href="https://inspirehep.net/authors/1074637?ui-citation-summary=true#with-citation-summary"><i class="ai ai-inspire"></i></a>
+			</div>
+		</header>
+		<div class="site-content-warp">
+			<!-- Left Side section -->
+			<div class="main-sidebar">
+				<div class="mb-warp">
+				  <a href="index.html" class="site-logo">
+				    <img src="img/MRuizIII.jpg" alt="Italian Trulli" width="350" height="360">
+					  <div class="about-info">
+						<h2> Milton Ruiz</h2>
+						<p> Theoretical Astrophysicist &
+						  Numerical Relativist  </p>
+					</div>
+					<ul class="contact-info">
+					  <h5><a href="https://ui.adsabs.harvard.edu/public-libraries/MT5SUPaQQdWI5uOOUuXJmg">My publications</a></h5>
+					         <li> <li>
+						<a href="mailto:ruizm@illinois.edu"> Email  <i class="fa fa-envelope"></i></button></a>
+                                           </ul>
+
+					<a href="portfolio.html" class="site-btn">See some of my projects <img src="img/arrow-right.png" alt=""></a>
+                                    </div>
+
+			</div>
+			<!-- Left Side section end -->
+			<!-- Page start -->
+			<div class="page-section">
+				<div class="hero-section">
+					<div class="hero-scroll">
+						<div class="hero-track">
+							<div class="hs-item set-bg" data-setbg="img/hero/hcross_2.png">
+								<div class="hs-info">
+									<h5>Binary Neutron star Coalescence</h5>
+									<p> <a href="https://www.youtube.com/embed/MqJhsEc5a0s?rel=0">Gravitational Waveform </a>
+									</p>
+									<a href="#"><img src="img/arrow-right.png" alt=""></a>
+								</div>
+							</div>
+							<div class="hs-item set-bg" data-setbg="img/hero/P1_end.png">
+								<div class="hs-info">
+									<h5>Accretion Disks Around Binary Black Holes</h5>
+									<p><a href="https://www.youtube.com/embed/KZ-RR0t0Ab0?enablejsapi=1&wmode=opaque&rel=0"> Matter and Magnetic Field</a></p>
+									<a href="#"><img src="img/arrow-right.png" alt=""></a>
+								</div>
+							</div>
+							<div class="hs-item set-bg" data-setbg="img/hero/p_eq_rho_t_P_25.png">
+								<div class="hs-info">
+									<h5> Stable Ergostars</h5>
+									<p><a href="https://www.youtube.com/embed/PXVyi_2GQ0E?rel=0">Matter and Ergoregion</a></p>
+									<a href="#"><img src="img/arrow-right.png" alt=""></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Page end -->
+		</div>
+		<div class="copyright"><p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p></div>
+	</div>
+	<!-- Main section end -->
+	
+	<!--====== Javascripts & Jquery ======-->
+	<script src="js/jquery-3.2.1.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.nicescroll.min.js"></script>
+	<script src="js/circle-progress.min.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
