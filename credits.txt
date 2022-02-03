@@ -1,0 +1,24 @@
+Images
+
+01.jpg:
+https://pixabay.com/illustrations/space-science-fiction-cosmos-911785/
+
+
+
+
+Software:
+
+Voyage Slider:
+https://codepen.io/dev_loop/pen/MWKbJmO/license
+
+CSS Image hover zoom effects:
+https://w3bits.com/css-image-hover-zoom/
+
+Preloder Walking Duck:
+https://github.com/MdUsmanAnsari
+
+SVG Arrow next previous animation
+https://github.com/karimhossenbux
+
+Animations all over the page:
+https://alvarotrigo.com
